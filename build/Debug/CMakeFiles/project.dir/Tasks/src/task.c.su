@@ -1,0 +1,3 @@
+D:/RM/Code/project/assignment1/Tasks/src/task.c:12:6:TASK1_Init	8	static
+D:/RM/Code/project/assignment1/Tasks/src/task.c:16:6:TASK2_Init	8	static
+D:/RM/Code/project/assignment1/Tasks/src/task.c:20:6:HAL_TIM_PeriodElapsedCallback	16	static
